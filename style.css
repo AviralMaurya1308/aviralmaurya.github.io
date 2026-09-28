@@ -115,18 +115,6 @@ ul {
   gap: 48px;
 }
 
-/* Optional background video (see the comment in index.html) */
-.me-video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 0.25;
-  z-index: -1;
-}
-
 
 .me-photo {
   justify-self: center;
