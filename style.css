@@ -309,6 +309,8 @@ footer {
   .contact-title {
     font-size: 29px;}
 }
-.card {
-   transition:none;}
+
+  .card {
+    transition: none;
+  }
 }
